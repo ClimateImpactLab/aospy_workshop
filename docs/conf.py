@@ -56,7 +56,7 @@ source_suffix = '.rst'
 # source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'module.rst'
+master_doc = 'module'
 
 # General information about the project.
 project = 'aospy_workshop'
