@@ -1,4 +1,7 @@
+.. gcp
 
+Global Climate Prospectus
+=========================
 
 GCM's just output RCP pathway. Right now we have no way to harmonize those findings
 
