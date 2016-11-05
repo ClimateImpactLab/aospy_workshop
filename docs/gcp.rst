@@ -3,10 +3,22 @@
 Global Climate Prospectus
 =========================
 
-GCM's just output RCP pathway. Right now we have no way to harmonize those findings
-
-21 models because NASA has not downscaled the data for all the CMIP5 s 
-SSP 
 
 
-For a given climate model we run a monte carlo taking 10000 draws. Out output 
+The GCP takes most of the methodology from the American Climate Prospectus 
+and expands the geographical scope as well as sectoral focus. 
+
+Our climate data, however, is different including only the 21 models that are downscaled in the NASA BCSD data. Also, impact functions are computed for every climate model under each of the RCP scenarios. 
+
+* `Impact Lab Team <http://www.impactlab.org/#who-we-are>`_
+
+* `Rhodium Group <http://www.rhg.com>`_
+
+* `Global Policy Lab <http://globalpolicy.science/>`_ at Berkeley
+
+* `Energy Policy Institute <https://epic.uchicago.edu/>`_ at UChicago
+
+* `Rutgers Energy Institute <http://rei.rutgers.edu/>`_ 
+
+
+ 
