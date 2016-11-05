@@ -18,7 +18,7 @@ Questions and Issues
 * S3 store on Open Science Data Cloud as well as NAS where all the data currently lives
 
 
-* Redesign pipeline to use xarray, dask. Currently using xarray on margins
+* Redesign pipeline to use xarray, dask. Currently using xarray on `margins <https://github.com/ClimateImpactLab/metacsv>`_
 
 * We are a public-facing organization. Medium to long-term intent is to create and participate in open-source software for climate impact modeling. 
 
