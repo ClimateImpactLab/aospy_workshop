@@ -25,11 +25,3 @@ Today I am going to introduce you to the
 
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
