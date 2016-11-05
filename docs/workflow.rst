@@ -1,7 +1,12 @@
-.. question
+.. workflow
 
-Questions
-=========
+
+* Around a dozen econometricians research and define climate impact functions
+
+  * Stata, Matlab, Python, Julia, R
+
+ 
+
 
 * We have about 20 terrabytes of climate data representing global daily temp and precip from the 21 models in the NASA BCSD data. 
 
