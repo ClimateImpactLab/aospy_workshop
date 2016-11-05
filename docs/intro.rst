@@ -13,4 +13,4 @@ understanding the economic risks of climate change to the US economy.
 Our approach
 ------------
 
-.. image:: imgs/approach.png
+.. image:: imgs/ClimImpact2.png

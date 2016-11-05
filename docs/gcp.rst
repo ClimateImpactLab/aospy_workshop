@@ -10,6 +10,9 @@ and expands the geographical scope as well as sectoral focus.
 
 Our climate data, however, is different including only the 21 models that are downscaled in the NASA BCSD data. Also, impact functions are computed for every climate model under each of the RCP scenarios. 
 
+
+.. image:: imgs/ClimImpact1.png
+
 * `Impact Lab Team <http://www.impactlab.org/#who-we-are>`_
 
 * `Rhodium Group <http://www.rhg.com>`_
